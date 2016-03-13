@@ -5,3 +5,4 @@ Idee on, et andmete edastamine Cliendidest Serverisse ja tagastamine kõikidele 
 Teistmoodi võib tekkida olukord, et esimene Client(1HP jäänud) nt, kasutab "Attack (-2HP)" Action'it momendil t0 = 0.00 ja saadab
 serverile. Server võtab 0.1 sekundit aega, et infot töödelda. Teine Client(ka 1HP) vajutab sama nuppu momendil t1=0.05.
 Siis tekkib olukord, et esimene masin teab, et ta on võidanud, teisel - et ta on võidanud.
+Stanislav
